@@ -14,6 +14,8 @@
 
 ## 🗂️ Tabelas — Supabase  
 
+📋 **[Documentação Completa das Tabelas](https://github.com/MiqueiasBrandaoDev/operacional--x-clickup/blob/main/database-schema.md)**
+
 - **cmz_planos** → Cadastro de planos e limites contratados.  
 - **cmz_cliente** → Registro de clientes vinculados aos planos.  
 - **cmz_tipo_servico** → Catálogo de tipos de serviços (reunião, extrajudicial, judicial, etc.).  
@@ -27,6 +29,7 @@
 - **cmz_template_documento** → Modelos de documentos padronizados.  
 - **cmz_documento_gerado** → Histórico de documentos gerados e enviados para assinatura.  
 - **cmz_clickup_task_map** → Sincronização entre tarefas do ClickUp e registros do Supabase.  
+- **tasks** → Integração ClickUp com contexto e vetor RAG para análise inteligente.  
 - **cmz_event_log** → Log de eventos para auditoria e rastreabilidade.  
 
 ---

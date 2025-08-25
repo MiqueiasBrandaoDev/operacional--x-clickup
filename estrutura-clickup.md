@@ -1,4 +1,4 @@
-# 🌳 Mapeamento Hierárquico – Operacional X
+# 🌳 Mapeamento Clickup – Operacional X
 
 ```
 📦 Espaço: OPERACIONAL X
@@ -86,7 +86,3 @@ Dashboards (Metabase / Superset)
 ```
 
 ---
-
-👉 Essa árvore deixa claro **quem opera no ClickUp** (e vê uma estrutura simples) e **quem usa o Supabase/n8n** (infra invisível, mas com controle total).
-
-Quer que eu **transforme esse mapeamento num diagrama visual (tipo organograma/fluxograma)** ou você prefere manter nesse formato hierárquico de árvore para já aplicar no ClickUp?

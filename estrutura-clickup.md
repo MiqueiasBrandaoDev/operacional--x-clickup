@@ -17,7 +17,7 @@
 │     • Origem da solicitação (Reunião / Outro)
 │     • Última devolutiva em (date)
 │     • SLA previsto (date)
-│     • Status jurídico (etapas)
+│     • Status (A fazer / Fazendo / Concluído)
 │
 ├── 📁 Pasta: Partes & Terceiros
 │   │
